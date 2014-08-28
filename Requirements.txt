@@ -38,13 +38,15 @@ User is not expected to have any solid technical background, but user is expecte
 
 	3.1.5.2 An answer consists of its text and its attributes.
 	
-	3.1.5.3 When an answer is selected it should allocate its attributes to the record of the current state.
+	3.1.5.3 When an answer is selected it should allocate its attributes to the record of the 			current state.
+
+	3.1.5.4 A question will consist of at least 2 answers and no more than 6 answers.
  
 3.1.6. Activities:
 	
 	3.1.6.1 An activity consists of its required points or threshold and its text.
 
-	3.1.6.2 A threshold will consist of 5 points. 
+	3.1.6.2 A threshold will consist of 5 points and no negative values. 
 
 
 3.2 Non-Functional Requirements
